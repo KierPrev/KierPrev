@@ -1,9 +1,6 @@
-## Hi there 👋
+## Hi, I'm Kiernan 👋🏻
 
-# About Me:
-
-
-- 🔭 Currently working on Programming Tutoring at [Kodland LATAM](https://kodland.org/)
+- ➡ Currently working on Programming Tutoring at [Kodland LATAM](https://kodland.org/)
 - 🔎 Learning more about Data Analysis
 - 💬 Ask me about Linux, Science and Cats 🐈
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kierprev/), kiernanpreve@gmail.com
@@ -11,5 +8,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KierPrev&label=visits&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
