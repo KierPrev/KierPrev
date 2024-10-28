@@ -33,9 +33,7 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 
-
-
-### 📊 GitHub Stats:
+## GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KierPrev&theme=shadow-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=300&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ---
