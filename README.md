@@ -1,10 +1,26 @@
-## Hi, I'm Kiernan 👋🏻
+# Kiernan Preve — Data & Creative Tech 👋
 
-- ➡ Currently working on Programming Tutoring at [Kodland LATAM](https://kodland.org/)
-- 🔎 Learning more about Data Analysis
-- 💬 Ask me about Linux, Science and Cats 🐈
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kierprev/), kier@tutanota.de
-- 🎼 Fun fact: I'm also a Music Producer / Composer
+**I help turn complex data into clear insights.**  
+Physics foundation, Linux-first mindset, and a pragmatic approach: from messy spreadsheets to reproducible workflows that guide decisions. Fluent in EN/ES. 🧭
+
+- 👩‍🏫 Programming Tutor @ [Kodland LATAM](https://kodland.org/)  
+- 🔭 Focus areas: Data Analysis, Open Science, Environmental impact studies  
+- 🤝 Open to freelance consulting: data audits, ETL workflows, dashboards & visualizations  
+- 📫 Contact: [kier.ar](https://kier.ar) · [LinkedIn](https://www.linkedin.com/in/kierprev/) · **dm@kier.ar**
+
+---
+
+## Featured Project
+- **Deforestation in San Luis (2001–2024)** — time-series analysis, notebooks and findings (peaks, probable drivers).  
+  _Key outputs: trends report + monitoring guidelines_ · **[Post]([https://kier.ar/deforestacion])**
+
+---
+
+## Services (Hire Me)
+- **Quick Data Audit (72h)** → check data quality + 3–5 page report with risks, quick wins, and a 30-day action plan.  
+- **Training** → “Python for Analysts”, “Git for Research”, “Best Practices in Notebooks”.
+
+🎯 Outcome: reduced reporting time, fewer errors, better decisions.
 
 ---
 
@@ -32,9 +48,16 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
+---
 
-## GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KierPrev&theme=shadow-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=300&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+## Beyond Data
+I also compose and produce music, exploring the intersection of science and art. 🎼  
+Check out more: [kier.ar](https://kier.ar)
 
 ---
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KierPrev&theme=shadow-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=300&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
+
 [![](https://visitcount.itsvg.in/api?id=KierPrev&label=visits&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
