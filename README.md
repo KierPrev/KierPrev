@@ -10,12 +10,6 @@ Physics foundation, Linux-first mindset, and a pragmatic approach: from messy sp
 
 ---
 
-## Featured Project
-- **Deforestation in San Luis (2001–2024)** — time-series analysis, notebooks and findings (peaks, probable drivers).  
-  _Key outputs: trends report + monitoring guidelines_ · **[Post]([https://kier.ar/deforestacion])**
-
----
-
 ## Services (Hire Me)
 - **Quick Data Audit (72h)** → check data quality + 3–5 page report with risks, quick wins, and a 30-day action plan.  
 - **Training** → “Python for Analysts”, “Git for Research”, “Best Practices in Notebooks”.
