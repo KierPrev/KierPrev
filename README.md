@@ -36,14 +36,7 @@ Physics foundation, Linux-first mindset, and a pragmatic approach: from messy sp
 
 ---
 
-## Beyond Data
-I also compose and produce music, exploring the intersection of science and art. 🎼  
+## Personal
+I'm a fiction writer! Also compose and produce music, exploring the intersection of science and art. 🎼  
 Check out more: [kier.ar](https://kier.ar)
 
----
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KierPrev&theme=shadow-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=300&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-
-
-[![](https://visitcount.itsvg.in/api?id=KierPrev&label=visits&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
