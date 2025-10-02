@@ -10,14 +10,6 @@ Physics foundation, Linux-first mindset, and a pragmatic approach: from messy sp
 
 ---
 
-## Services (Hire Me)
-- **Quick Data Audit (72h)** → check data quality + 3–5 page report with risks, quick wins, and a 30-day action plan.  
-- **Training** → “Python for Analysts”, “Git for Research”, “Best Practices in Notebooks”.
-
-🎯 Outcome: reduced reporting time, fewer errors, better decisions.
-
----
-
 #### Data Analysis
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
